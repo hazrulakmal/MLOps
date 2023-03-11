@@ -1,2 +1,6 @@
+#cache
+__pycache__/
+
+#environment
 ml_env/
 token_key.txt
